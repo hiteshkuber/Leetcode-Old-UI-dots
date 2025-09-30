@@ -32,11 +32,6 @@ Old UI vs New UI:
 <br>
 <br>
 
-Extension in action:
-<br>
-<img width="220" height="74" alt="after" src="https://github.com/user-attachments/assets/8509f3c5-5950-4c9c-a285-9a19c1edbc84" />
-<br>
-<br>
 ---
 
 ## 🚀 Quick Install (Local / Developer install)
