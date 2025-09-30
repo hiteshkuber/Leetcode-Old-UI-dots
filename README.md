@@ -14,11 +14,7 @@ This lightweight content-script extension injects CSS/JS to bring back the previ
 ---
 
 ## 📸 Screenshots
-
-> Replace the placeholders with your real images (`screenshots/old-ui.png`, `screenshots/new-ui.png`, `screenshots/extension-in-action.png`).
-
 Old UI vs New UI:
-
 
 *Old / restored look*
 <br>
